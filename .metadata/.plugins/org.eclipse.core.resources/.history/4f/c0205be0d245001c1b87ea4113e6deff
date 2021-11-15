@@ -1,0 +1,6 @@
+package com.springbootaws.crudrestful.controller;
+
+@RestController
+public class UserController {
+
+}

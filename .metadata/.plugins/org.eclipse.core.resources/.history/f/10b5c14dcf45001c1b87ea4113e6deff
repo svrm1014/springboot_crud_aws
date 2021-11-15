@@ -1,0 +1,5 @@
+package com.springbootaws.crudrestful.exception;
+
+public class ResourceNotFoundException {
+
+}

@@ -1,0 +1,5 @@
+package com.springbootaws.crudrestful.entity;
+
+public class User {
+
+}
